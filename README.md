@@ -1,2 +1,2 @@
 # TreeBark
-Extracting a newick string from a phylogenetic tree image
+Automatically extract a newick string from a phylogenetic tree image in many formats
